@@ -1,1 +1,1 @@
-# Repo de configuraciones: properties para el Config Serevrr
+# Repo de configuraciones: properties para el Config Server
